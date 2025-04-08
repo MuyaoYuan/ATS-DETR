@@ -1,0 +1,13 @@
+data
+pretrained_swin-t
+__pycache__
+exps
+.vscode
+models/ops/MultiScaleDeformableAttention.egg-info
+models/ops/dist
+models/ops/build
+vis
+*.pdf
+*.png
+*.pth
+log_result.txt
