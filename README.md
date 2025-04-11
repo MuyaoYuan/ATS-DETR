@@ -90,7 +90,7 @@ $ ./configs/r50_ATS_DETR_0.1_0.2.sh --resume <path to pre-trained model> --eval
 You can also run distributed evaluation by using ```./tools/run_dist_launch.sh```.
 
 # Checkpoints
-The model checkpoints for **ATS-DETR** are available for download on Hugging Face at the following link: [MuyaoYuan/ATS-DETR](https://huggingface.co/MuyaoYuan/ATS-DETR). It is recommended to organize the checkpoints as follows:
+The model checkpoints for **ATS-DETR** are available for download on Hugging Face at the following link: [MuyaoYuan/ATS-DETR](https://huggingface.co/MuyaoYuan/ATS-DETR/tree/main). It is recommended to organize the checkpoints as follows:
 
 ```
 code_root/
