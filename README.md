@@ -24,7 +24,7 @@ By [Muyao Yuan](https://scholar.google.com/citations?user=a4FVOnkAAAAJ)
 ## Requirements
 
 We have tested the code on the following environments: 
-* Python 3.8.17 / Pytorch 1.8.0 / torchvisoin 0.9.0 / CUDA 11.1 / Ubuntu 20.04
+* Python 3.8.17 / Pytorch 1.8.0 / torchvision 0.9.0 / CUDA 11.1 / Ubuntu 20.04
 
 Run the following command to install dependencies:
 ```bash
